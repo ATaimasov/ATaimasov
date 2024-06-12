@@ -4,7 +4,6 @@
    <div align="center">
     <a href="#!"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://t.me/ATaimasov"><img src="https://img.shields.io/badge/Telegram-%23229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-    <a href="https://orel.hh.ru/applicant/resumes/view?resume=2a4951a9ff0cdf7df50039ed1f74747767527a"> <img src="
      <a href="https://xn--80aag0apnud.xn--p1ai/"><img src="https://img.shields.io/badge/%D1%82%D0%B0%D0%B9%D0%BC%D0%B0%D1%81%D0%BE%D0%B2.%D1%80%D1%84-gray?style=for-the-badge" alt="Таймасов.рф"/></a>
   </div>
 
