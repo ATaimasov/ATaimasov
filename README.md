@@ -4,6 +4,7 @@
    <div align="center">
     <a href="#!"><img src="https://img.shields.io/badge/LinkedIn-%230a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://t.me/ATaimasov"><img src="https://img.shields.io/badge/Telegram-%23229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+    <a href="https://orel.hh.ru/applicant/resumes/view?resume=2a4951a9ff0cdf7df50039ed1f74747767527a"> <img src="
      <a href="https://xn--80aag0apnud.xn--p1ai/"><img src="https://img.shields.io/badge/%D1%82%D0%B0%D0%B9%D0%BC%D0%B0%D1%81%D0%BE%D0%B2.%D1%80%D1%84-gray?style=for-the-badge" alt="Таймасов.рф"/></a>
   </div>
 
@@ -50,7 +51,7 @@
 
 Работа в техподдержке дала IT-базу, так как в процессе работы я по телефону консультировал и решал технические проблемы пользователей по  доменам, ssl-сертификатам, хостингам и иных услуг. <br> Кроме того, она также научила понимать клиентов, выявлять их потребности и решать их, даже если клиент - бабушка. <br> Ежедневный прямой контакт с потребителями, также дал и определенное понимание, с какими проблемами они чаще сталкиваются при взаимодействии с сайтом (UX).
 
-Уходя, из техподдержки, я понимал, что мне все еще не хватает знаний: я все еще проседаю по JS и мне не хватает готовых PET-проектов. При этом, работать на звонках я уже не мог - сдавали нервы. 
+Уходя, из техподдержки, я понимал, что мне все еще не хватает знаний: я проседаю по JS и чувствуется нехватка готовых PET-проектов. При этом, работать на звонках я уже не мог - сдавали нервы. 
 <p align="center"><img src="https://files.xn--80aag0apnud.xn--p1ai/meme3.png" width=370px>  </p>
 
 ###### Работа контент-менеджером
