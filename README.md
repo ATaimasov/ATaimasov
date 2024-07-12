@@ -61,7 +61,7 @@
 
 Проект на сервере: https://homyakator.таймасов.рф
 
-Проект на GitHub: https://github.com/ATaimasov/homyakator
+Проект на GitHub: https://github.com/ATaimasov/Homyakator-market
 
 ---
 
