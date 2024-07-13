@@ -53,11 +53,13 @@
 - добавлена возможность взаимодействия с фильтром и товарами посредством клавиатуры
 
 ### Используемые технологии и подходы: 
--HTML
--CSS
--JavaScript
--jQuery
--SlickSlider
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- SlickSlider
+- Prepros
+- .kit
 
 Проект на сервере: https://homyakator.таймасов.рф
 
