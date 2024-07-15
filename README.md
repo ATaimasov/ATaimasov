@@ -14,7 +14,7 @@
  <li> <a href='#taimasov'>Сайт-портфолио Таймасов.рф </a></li>
  <li><a href='#homyakator'>Интернет-магазин корма "Хомякатор"</a></li>
  <li><a href='#amazing-places'> Сайт-статейник "Открой удивительные места в Японии"</a></li>
- <li><a href='#burgers'> Лендинг "Бургеры на заказ"</a></li>
+
 </ol>
 
 <br><br>
@@ -76,16 +76,5 @@
 Проект на сервере: https://amazing-places.таймасов.рф
 
 Проект на GitHub: https://github.com/ATaimasov/Amazing-places
-
----
-
-## <p id="burgers">"Бургеры на заказ"</p>
-Проект сверстан из <a href="https://www.figma.com/design/MKz55ReNMlbTq1ZK67YkzU/landing?node-id=0-1&t=mqgUoK2dwt4YgzkA-1">макета Figma</a>  предоставляет собой одностраничный сайт с возможностью заполнения формы для обратной связи.
-
-Используемые технологии и подходы: HTML, CSS, JavaScript, Figma.
-
-Проект на сервере: https://burgers.таймасов.рф
-
-Проект на GitHub: https://github.com/ATaimasov/burgers
 
 ---
